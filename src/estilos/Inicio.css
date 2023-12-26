@@ -1,0 +1,10 @@
+.contenedor-pagina-inicio{
+    z-index: 100;
+    width: 1440px;
+    height: 870px; 
+    background: rgba(0, 0, 0, 7);
+    position: absolute; 
+    left: 50%;
+    transform: translateX(-50%);
+    top: 8%;
+}

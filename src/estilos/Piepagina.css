@@ -1,0 +1,18 @@
+.contenedor-piepagina {
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+    height: 160px;
+    top: 110%;
+}
+
+.contenedor-texto-piepagina {
+    text-align:left;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}

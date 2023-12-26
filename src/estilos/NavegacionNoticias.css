@@ -1,0 +1,12 @@
+.navegacion-noticias{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #ffffff;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1440px;
+    height: 50px;
+    top: 92%
+}

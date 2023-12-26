@@ -1,0 +1,24 @@
+.contenedor-secundario-noticias{
+    z-index: 100;
+    width: 1440px;
+    height: 870px; 
+    background: rgba(0, 0, 0, 7);
+    position: absolute; 
+    left: 50%;
+    transform: translateX(-50%);
+    top: -35%;
+}
+
+.contenedor-noticias {
+    width: 400px;   
+    height: 400px;
+    justify-content: center;
+    background-color: #ffffff;
+    border: black 1px solid;
+    margin: 0% 5% 5% 5%;
+}
+
+.imagen-noticia {
+    height: 45%;
+    width: 45%;
+}
